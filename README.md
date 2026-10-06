@@ -1,4 +1,5 @@
 ![GitHub Actions](https://github.com/Lacus108/se-lab/actions/workflows/maven.yml/badge.svg)
+![License](https://img.shields.io/github/license/Lacus108/se-lab)
 
 # SE Spaceship
 
